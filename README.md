@@ -2,7 +2,7 @@
 
 ## Análise dos gastos parlamentares do estado do Pará (PA)
 
-### EQUIPE: Bruno Mendes, [Felipe Britto](https://github.com/XFelipeBrittoX), [Harão Tavares](https://github.com/hara0-tavares) e Liora Dopacio.
+### EQUIPE: [Bruno Mendes](https://github.com/Brunoka02), [Felipe Britto](https://github.com/XFelipeBrittoX), [Harão Tavares](https://github.com/hara0-tavares) e Liora Dopacio.
 
 **Descrição do Projeto**: Você e sua equipe foram escalados novamente pela Procuradoria Geral da República para dar continuidade a investigação dos gastos dos parlamentares brasileiros nos anos de 2019, 2020 e 2021.
 As análises feitas anteriormente chamaram a atenção da Polícia Federal (PF) para operações que irão ocorrer simultaneamente em todos os estados.
