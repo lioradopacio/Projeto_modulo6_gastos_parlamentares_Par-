@@ -30,3 +30,6 @@ Como são muitos parlamentares, a análise das despesas devem ser realizadas por
 [Dados 2020](https://drive.google.com/file/d/1ROdxqIy8mCZxCl_N3HtFGvDOuwAwkaW_/view?usp=sharing)
 
 [Dados 2021](https://drive.google.com/file/d/1eYA3OWyyY6JY96i19-yYhXScsS617EfL/view?usp=sharing)
+
+## Link do projeto no Tableau Publico
+[Visualizações Projeto Gastos Parlamentares no Pará](https://public.tableau.com/app/profile/liora.dopacio/viz/shared/F8M3BR97J)
